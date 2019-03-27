@@ -1,5 +1,3 @@
-# Developer Guidelines
-
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Developer Guidelines](#developer-guidelines)
@@ -25,6 +23,8 @@
 		- [2.5. Iconography must be clear](#25-iconography-must-be-clear)
 
 <!-- /TOC -->
+
+# Developer Guidelines
 
 ## 1. Build solid foundations
 
