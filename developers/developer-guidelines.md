@@ -1,30 +1,29 @@
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+# Developer Guidelines
 
-- [Developer Guidelines](#developer-guidelines)
-	- [1. Build solid foundations](#1-build-solid-foundations)
-		- [1.1. HTML must validate](#11-html-must-validate)
-			- [Takeaways](#takeaways)
-		- [1.2. HTML must be semantic](#12-html-must-be-semantic)
-			- [Takeaways](#takeaways)
-			- [Dive deeper](#dive-deeper)
-		- [1.3. URLs must be used properly](#13-urls-must-be-used-properly)
-			- [Takeaways](#takeaways)
-	- [2.  Build usable User Interfaces (UIs)](#2-build-usable-user-interfaces-uis)
-		- [2.1. Links must make sense](#21-links-must-make-sense)
-			- [Material Honesty](#material-honesty)
-			- [Usability](#usability)
-			- [Did you know?](#did-you-know)
-			- [Questions? What ifs?](#questions-what-ifs)
-		- [2.2. Buttons must be usable](#22-buttons-must-be-usable)
-			- [Material honesty](#material-honesty)
-			- [Usability](#usability)
-		- [2.3. Forms must be functional](#23-forms-must-be-functional)
-		- [2.4. Images & media must be perceivable](#24-images-media-must-be-perceivable)
-		- [2.5. Iconography must be clear](#25-iconography-must-be-clear)
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [1. Build solid foundations](#1-build-solid-foundations)
+	- [1.1. HTML must validate](#11-html-must-validate)
+		- [Takeaways](#takeaways)
+	- [1.2. HTML must be semantic](#12-html-must-be-semantic)
+		- [Takeaways](#takeaways)
+		- [Dive deeper](#dive-deeper)
+	- [1.3. URLs must be used properly](#13-urls-must-be-used-properly)
+		- [Takeaways](#takeaways)
+- [2.  Build usable User Interfaces (UIs)](#2-build-usable-user-interfaces-uis)
+	- [2.1. Links must make sense](#21-links-must-make-sense)
+		- [Material Honesty](#material-honesty)
+		- [Usability](#usability)
+		- [Did you know?](#did-you-know)
+		- [Questions? What ifs?](#questions-what-ifs)
+	- [2.2. Buttons must be usable](#22-buttons-must-be-usable)
+		- [Material honesty](#material-honesty)
+		- [Usability](#usability)
+	- [2.3. Forms must be functional](#23-forms-must-be-functional)
+	- [2.4. Images & media must be perceivable](#24-images-media-must-be-perceivable)
+	- [2.5. Iconography must be clear](#25-iconography-must-be-clear)
 
 <!-- /TOC -->
-
-# Developer Guidelines
 
 ## 1. Build solid foundations
 
