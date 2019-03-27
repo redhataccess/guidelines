@@ -1,7 +1,6 @@
-
 # Red Hat Customer Portal Accessibility Guidelines
 
-These guidelines outline the best practices for building inclusive, usable, and bullet-proof web pages and applications that are accessible to anyone on any device.
+These guidelines outline the best practices for building inclusive, usable, and bullet-proof web pages and applications that are accessible to anyone on any device. By adhering to these guidelines, you should also meet [WCAG 2.0 AA](https://www.w3.org/WAI/standards-guidelines/wcag/) requirements.
 
 _Please note, these guidelines are a work in progress and will be updated regularly. Comments and feedback are welcome._
 
