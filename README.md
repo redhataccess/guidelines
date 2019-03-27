@@ -1,2 +1,2 @@
-# Guidelines
-Red Hat Customer Portal Guidelines
+# Red Hat Customer Portal Guidelines
+
