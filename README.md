@@ -4,7 +4,7 @@ These guidelines outline the best practices for building inclusive, usable, and 
 
 _Please note, these guidelines are a work in progress and will be updated regularly. Comments and feedback are welcome._
 
-> "When you call something an edge case, you’re really just defining the limits of what you care about.”
+> "When you call something an edge case, you’re really just defining the limits of what you care about."
 > — Eric Meyer
 
 ## Getting Started
