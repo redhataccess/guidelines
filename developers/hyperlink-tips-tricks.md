@@ -35,7 +35,7 @@ You can follow one of two more complicated routes using [ARIA](https://developer
 
 1. Apply an `aria-labelledby="associatedHeadingID linkID"` on the link so it can be properly associated. <br>For instance: `<h2 id="guachoHeadline">Gauchos Win Again</h2>`<br>`<p>The Gauchos have done it again!...</p>`<br>`<a href="/gauchos-win-again" id="guachoLink" aria-labelledby="guachoHeadline guachoLink">Read more</a>`<br>Will be spoken as: *"Gauchos Win Again, Read more, Link"*.
 
-2. Or apply an `aria-label` to the link so it will change the spoken text (or "[accessible name](https://developer.paciellogroup.com/blog/2017/04/what-is-an-accessible-name/)") for screen reader.<br>For instance: `<a href="/gauchos-win-again" aria-label="Gauchos Win Again, Read more">Read More</a>`<br>Will be spoken as: *"Gauchos Win Again, Read more, Link"*.
+2. Or apply an `aria-label` to the link so it will change the spoken text (or "[accessible name](https://developer.paciellogroup.com/blog/2017/04/what-is-an-accessible-name/)") for the screen reader.<br>For instance: `<a href="/gauchos-win-again" aria-label="Gauchos Win Again, Read more">Read More</a>`<br>Will be spoken as: *"Gauchos Win Again, Read more, Link"*.
 
 **But, there's an inherent problem with going this route.** ARIA patches this problem *only* for devices that understand ARIA. The root of the problem still remains: poorly constructed content that leaves a user with "[poor information scent](https://www.nngroup.com/articles/information-scent/)."
 
