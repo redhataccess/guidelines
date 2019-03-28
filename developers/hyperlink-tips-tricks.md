@@ -37,7 +37,7 @@ You can follow one of two more complicated routes using [ARIA](https://developer
 
 2. Or apply an `aria-label` to the link so it will change the spoken text (or "[accessible name](https://developer.paciellogroup.com/blog/2017/04/what-is-an-accessible-name/)") for the screen reader.<br>For instance: `<a href="/gauchos-win-again" aria-label="Gauchos Win Again, Read more">Read More</a>`<br>Will be spoken as: *"Gauchos Win Again, Read more, Link"*.
 
-**But, there's an inherent problem with going this route.** ARIA patches this problem *only* for devices that understand ARIA. The root of the problem still remains: poorly constructed content that leaves a user with "[poor information scent](https://www.nngroup.com/articles/information-scent/)."
+**But, there's an inherent problem with going this route.** ARIA patches this problem *only* for devices that utilize and understand ARIA. The root of the problem still remains: poorly constructed content that leaves a user with "[poor information scent](https://www.nngroup.com/articles/information-scent/)."
 
 Users who may not have screen readers or devices that interpret ARIA could still find the "learn more" links disorienting due to [cognitive strain](https://www.nngroup.com/articles/learn-more-links/). For example, users with low vision who have zoomed into the content may not be able to easily associate the CTA with its heading. Or users with cognitive disabilities may have trouble making the association altogether. In fact, all users will experience an increase in cognitive load while they make the association between link and header anyway (whether they do so quickly or not). So why make the user experience worse to save a few words?
 
