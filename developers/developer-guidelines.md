@@ -105,7 +105,7 @@ URLs (or URIs) are one of the foundations of the web—[the glue that binds the 
 
 -  [Don't use "click here"](https://medium.com/@heyoka/dont-use-click-here-f32f445d1021) or other vague, non-descriptive hyperlink text.
 -   Write clear and concise hyperlink text.
--   Don't use "learn more" as a call-to-action. It is better to link a heading.
+-   [Don't use "learn more"](hyperlink-tips-tricks.md) as a call-to-action. It is better to link a heading.
 -   Do not use the same hyperlink text for different URLs. Doing so would be confusing to a user (e.g. "learn more"). Use the same URL destination for the same link text.
 -   Do not use a URL as the hyperlink text, unless the use of the URL is concise (like redhat.com) and necessary for the user to remember the URL.
 -   When linking to something that is not a web page (like a PDF), you must indicate the file/format with text or an ARIA label (not just an icon). *Read next bullet point too.*
