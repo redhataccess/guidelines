@@ -13,10 +13,10 @@ There are many advantages to developing this way—a methodology called [Progres
 7.  Increased conversions — Faster performing web sites and applications with more reach and better usability will increase your conversion rates.
 8.  Future-proof and backward compatibility — Applications and web content written in HTML will always work well into the future (as browser technology changes) as well as work on any device.
 
+We recognize that Progressive Enhancements isn’t always possible (especially on long-standing systems), and that we have many applications that have already been written to function exclusively with JavaScript. We should, however, be making every effort to move toward a more user-inclusive and more stable development model (i.e. Progressive Enhancements).
+
 > "When we write JavaScript, it’s critical that we recognize that we can’t be guaranteed it will run."
 > — Aaron Gustafson
-
-We recognize that Progressive Enhancements isn’t always possible (especially on long-standing systems), and that we have many applications that have already been written to function exclusively with JavaScript. We should, however, be making every effort to move toward a more user-inclusive and more stable development model (i.e. Progressive Enhancements).
 
 ## Takeaways
 
