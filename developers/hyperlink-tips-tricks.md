@@ -6,7 +6,7 @@
 
 ### *Why? How so?*
 
-Imagine you're a user who is blind. You've come to a new website, and you want to see what links are available. So you use one of your [shortcuts for links](https://webaim.org/resources/shortcuts/jaws#links) on the page. And, you hear something like this from your screen reader:
+Imagine you're a user who is blind. You've come to a new website, and you want to see what links are available. So you use one of your [JAWS shortcuts for links](https://webaim.org/resources/shortcuts/jaws#links) on the page. And, you hear something like this from your screen reader:
 
 - Products, link.
 - About us, link.
