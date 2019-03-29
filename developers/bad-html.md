@@ -1,5 +1,24 @@
-
 # Don't Misuse HTML
+
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Common, semantic implementations](#common-semantic-implementations)
+	- [Clickable buttons](#clickable-buttons)
+		- [Correct Implementation](#correct-implementation)
+		- [Incorrect Implementation(s)](#incorrect-implementations)
+	- [Links](#links)
+		- [Correct Implementation](#correct-implementation)
+		- [Incorrect Implementation(s)](#incorrect-implementations)
+		- [Did you know?](#did-you-know)
+	- [Text that’s intended to be visually smaller](#text-thats-intended-to-be-visually-smaller)
+		- [Correct Implementation](#correct-implementation)
+			- [HTML](#html)
+			- [CSS](#css)
+		- [Incorrect Implementation(s)](#incorrect-implementations)
+		- [Did you know?](#did-you-know)
+- [Takeaways](#takeaways)
+
+<!-- /TOC -->
 
 Never misuse HTML5 elements. If you are unsure of the meaning of an element, [look it up](https://developer.mozilla.org/en-US/) before assuming.
 
