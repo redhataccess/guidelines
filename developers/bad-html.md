@@ -1,5 +1,6 @@
 # Don't Misuse HTML
 
+**Table of Contents**
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Common, semantic implementations](#common-semantic-implementations)
@@ -19,6 +20,8 @@
 - [Takeaways](#takeaways)
 
 <!-- /TOC -->
+
+---
 
 Never misuse HTML5 elements. If you are unsure of the meaning of an element, [look it up](https://developer.mozilla.org/en-US/) before assuming.
 
