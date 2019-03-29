@@ -1,5 +1,6 @@
 # Developer Guidelines
 
+**Table of Contents**
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [1. Build solid foundations](#1-build-solid-foundations)
@@ -24,6 +25,8 @@
 	- [2.5. Iconography must be clear](#25-iconography-must-be-clear)
 
 <!-- /TOC -->
+
+---
 
 ## 1. Build solid foundations
 
