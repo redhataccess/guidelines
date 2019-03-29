@@ -1,3 +1,4 @@
+
 # Don't Misuse HTML
 
 Never misuse HTML5 elements. If you are unsure of the meaning of an element, [look it up](https://developer.mozilla.org/en-US/) before assuming.
@@ -12,17 +13,35 @@ In addition, take caution when using "[changed elements](https://developer.mozil
 
 ### Clickable buttons
 
-| Correct Implementation | Incorrect Implementation(s) |
-|:-----------------------|:----------------------------|
-| `<button>Button Text</button>` | `<a>Button Text</a>`<br>`<a onclick="...">Button Text</a>`<br>`<span ng-click="...">Button Text</span>`<br>`<div>Button Text</div>` |
+#### Correct Implementation
 
+```html
+<button>Button Text</button>
+```
+
+#### Incorrect Implementation(s)
+
+```html
+<a>Button Text</a>
+<a onclick="...">Button Text</a>
+<span ng-click="...">Button Text</span>
+<div>Button Text</div>
+```
 Remember, HTML is for semantics, CSS is for styling. If you don't like the way a `<button>` looks, use CSS to change its appearance.
 
 ### Links
 
-| Correct Implementation | Incorrect Implementation(s) |
-|:-----------------------|:----------------------------|
-| `<a href="...">Link Text</a>` | `<a onclick="...">Link Text</a>` |
+#### Correct Implementation
+
+```html
+<a href="...">Link Text</a>
+```
+
+#### Incorrect Implementation(s)
+
+```html
+<a onclick="...">Link Text</a>
+```
 
 #### Did you know?
 
@@ -32,9 +51,25 @@ An anchor (`<a>`) tag without an `href` attribute or `tabindex="0"` is not focus
 
 ### Text that’s intended to be visually smaller
 
-| Correct Implementation | Incorrect Implementation(s) |
-|:-----------------------|:----------------------------|
-| `<style>`<br>`.exampleClass {`<br>`font-size: 0.75em;`<br>`}`<br>`</style>`<br>`<span class=”exampleClass”>Lorem ipsum dolar</span>` | `<small>Lorem ipsum dolar</small>` |
+
+#### Correct Implementation
+
+##### HTML
+```html
+<span class=”exampleClass”>Lorem ipsum dolar</span>
+```
+##### CSS
+```css
+.exampleClass {
+  font-size: 0.75em;
+}
+```
+
+#### Incorrect Implementation(s)
+
+```html
+<small>Lorem ipsum dolar</small>
+```
 
 #### Did you know?
 
